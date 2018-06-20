@@ -1,0 +1,22 @@
+[INIT]
+Lineas=5
+
+[LIST1]
+Objeto=662-1
+Mensaje=Una Varas de mago
+
+[LIST2]
+Objeto=660-1
+Mensaje=Un baculo engarzado
+
+[LIST3]
+Objeto=37-1000
+Mensaje=1000 Pociones azules
+
+[LIST4]
+Objeto=38-1000
+Mensaje=1000 Pociones rojas
+
+[LIST5]
+Objeto=986-1
+Mensaje=Una túnica de druida

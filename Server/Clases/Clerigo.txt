@@ -1,0 +1,30 @@
+[INIT]
+Lineas=7
+
+[LIST1]
+Objeto=129-1
+Mensaje=Una hacha de guerra 2 filos
+
+[LIST2]
+Objeto=130-1
+Mensaje=Un Escudo de plata
+
+[LIST3]
+Objeto=37-1000
+Mensaje=1000 Pociones azules
+
+[LIST4]
+Objeto=38-1000
+Mensaje=1000 Pociones rojas
+
+[LIST5]
+Objeto=986-1
+Mensaje=Una túnica de druida
+
+[LIST6]
+Objeto=405-1
+Mensaje=Un casco de plata
+
+[LIST7]
+Objeto=699-1
+Mensaje=Anillo de disolución mágica.

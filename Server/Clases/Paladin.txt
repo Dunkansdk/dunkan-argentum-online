@@ -1,0 +1,26 @@
+[INIT]
+Lineas=6
+
+[LIST1]
+Objeto=403-1
+Mensaje=Una espada de plata
+
+[LIST2]
+Objeto=405-1
+Mensaje=Un Casco de Plata
+
+[LIST3]
+Objeto=37-1000
+Mensaje=1000 Pociones azules
+
+[LIST4]
+Objeto=38-1000
+Mensaje=1000 Pociones rojas
+
+[LIST5]
+Objeto=986-1
+Mensaje=Una túnica de druida
+
+[LIST6]
+Objeto=130-1
+Mensaje=Un Escudo de plata

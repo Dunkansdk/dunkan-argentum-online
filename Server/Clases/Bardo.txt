@@ -1,0 +1,26 @@
+[INIT]
+Lineas=6
+
+[LIST1]
+Objeto=1049-1
+Mensaje=Laúd élfico
+
+[LIST2]
+Objeto=986-1
+Mensaje=Túnica de druida
+
+[LIST3]
+Objeto=37-1000
+Mensaje=1000 Pociones azules
+
+[LIST4]
+Objeto=38-1000
+Mensaje=1000 Pociones rojas
+
+[LIST5]
+Objeto=404-1
+Mensaje=1 Escudo de Tortuga
+
+[LIST6]
+Objeto=132-1
+Mensaje=Un casco de hierro

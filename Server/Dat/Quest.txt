@@ -1,0 +1,14 @@
+[INIT]
+Cantidad=1
+
+[Q1]
+Nombre=Mision Nivel 2
+Informacion=Asesina 10 murcielagos.
+NpcNumero=500
+CantidadNPCs=10
+Nivel=2
+ExpRecompensa=1200
+OroRecompensa=1000
+NumeroObjs=2
+Premio1=1-20
+Premio2=2-1

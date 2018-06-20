@@ -1,0 +1,22 @@
+[INIT]
+Lineas=5
+
+[LIST1]
+Objeto=662-10
+Mensaje=Diez Varas de mago
+
+[LIST2]
+Objeto=660-1
+Mensaje=Un baculo engarzado
+
+[LIST3]
+Objeto=402-5
+Mensaje=5 Espadas Matadragones
+
+[LIST4]
+Objeto=404-2
+Mensaje=2 Escudo de TORtUGa Xd !!
+
+[LIST5]
+Objeto=405-1
+Mensaje=Un casco de plata
